@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi there 👋, I'm Sonam Kumari
 
-<!--
-**sonam-420/sonam-420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AIML (Artificial Intelligence & Machine Learning) Student
+💻 Passionate about Python, Data Science, AI & Web Technologies
+🌱 Currently learning Machine Learning, Deep Learning & NLP
+🚀 Interested in building smart AI solutions and real-world projects
 
-Here are some ideas to get you started:
+🚀 About Me
+🎓 Student focused on Artificial Intelligence & Machine Learning
+💡 Exploring AI tools, Python libraries, and automation
+📚 Learning: Python, Pandas, NumPy, Scikit-Learn, TensorFlow
+🛠️ Working on mini projects and improving coding skills
+🎯 Goal: Become an AI/ML Engineer
+🧠 Skills
+Python
+Machine Learning
+Data Analysis
+HTML, CSS, JavaScript
+Git & GitHub
+SQL Basics
+📂 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 AI/ML Mini Projects
+🔹 Python Automation Scripts
+🔹 Web Development Projects
+🔹 Data Analysis Projects
